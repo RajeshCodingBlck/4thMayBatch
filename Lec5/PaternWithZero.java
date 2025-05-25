@@ -13,6 +13,8 @@ public class PaternWithZero {
 		 int row=1;
 		 
 		 int nst=1;
+		 
+		 
 		 while(row<=n) {
 			 // work
 			 
